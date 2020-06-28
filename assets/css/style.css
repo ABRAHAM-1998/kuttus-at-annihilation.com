@@ -1,10 +1,11 @@
 #myDIV3 {
   animation: myme 1s infinite;
   padding: 12px;
+  color: white;
 }
 
 @keyframes myme {
-  50% {text-shadow: 5px 7px 5px rgb(15, 15, 15);}
+  50% {text-shadow: 5px 7px 5px rgb(241, 211, 211);}
 }
 
 #myDIV {
